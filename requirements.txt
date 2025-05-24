@@ -1,1 +1,4 @@
 websockets==12.0
+flask
+flask-cors
+gunicorn
